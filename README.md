@@ -1,5 +1,5 @@
 ## MACSum
-This repository maintains dataset, metrics, and models for paper MACSUM: Controllable Summarization with Mixed Attributes.
+This repository maintains dataset, metrics, and models for paper [MACSUM: Controllable Summarization with Mixed Attributes](https://arxiv.org/abs/2211.05041).
 
 
 ## Overview
