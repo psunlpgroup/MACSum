@@ -169,3 +169,11 @@ Results on MAC-Dial. The performance of the model is better when Control Error R
 
 
 ## Citation
+```bibtex
+@article{zhang2022macsum,
+  title={MACSum: Controllable Summarization with Mixed Attributes},
+  author={Zhang, Yusen and Liu, Yang and Yang, Ziyi and Fang, Yuwei and Chen, Yulong and Radev, Dragomir and Zhu, Chenguang and Zeng, Michael and Zhang, Rui},
+  journal={arXiv preprint arXiv:2211.05041},
+  year={2022}
+}
+```
