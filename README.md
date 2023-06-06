@@ -1,5 +1,5 @@
 ## MACSum
-This repository maintains dataset, metrics, and models for paper [MACSUM: Controllable Summarization with Mixed Attributes](https://arxiv.org/abs/2211.05041).
+This repository maintains dataset, metrics, and models for TACL 2023 paper [MACSum: Controllable Summarization with Mixed Attributes](https://arxiv.org/abs/2211.05041).
 
 
 ## Overview
@@ -170,10 +170,10 @@ Results on MAC-Dial. The performance of the model is better when Control Error R
 
 ## Citation
 ```bibtex
-@article{zhang2022macsum,
+@article{zhang2023macsum,
   title={MACSum: Controllable Summarization with Mixed Attributes},
   author={Zhang, Yusen and Liu, Yang and Yang, Ziyi and Fang, Yuwei and Chen, Yulong and Radev, Dragomir and Zhu, Chenguang and Zeng, Michael and Zhang, Rui},
-  journal={arXiv preprint arXiv:2211.05041},
-  year={2022}
+  journal={Transactions of the Association for Computational Linguistics},
+  year={2023}
 }
 ```
